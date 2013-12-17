@@ -1,0 +1,31 @@
+/Arithmetic/10//3+7= ?
+/Arithmetic/280//14x20= ?
+/Arithmetic/65//21+44= ?
+/Arithmetic/403//31(4+9)= ?
+/Arithmetic/30//21+9= ?
+/Arithmetic/266//86+180= ?
+/Arithmetic/22//5(5)+41-44= ?
+/Word Problem/0/none//There were 4 apples on the table. Johnny ate 3 of them, and then the dog took another one. How many apples were left on the table?
+/Word Problem/9//A farmer had 18 sheep, all but 9 died. How may sheep did he have after that?
+/Word Problem/6//If Hamfon has 6 apples, and at the end of the day he has 6 apples, assuming nothing happens to the apples by tomorrow morning, how many apples will he have tomorrow morning.
+/Algebra I/24//If this is true, say the answer, if it is false say false: 2(3x4) = (2x3)4
+/Algebra I/25//If this is true, say the answer, if it is false say false: 5(4+1)= (20+5)
+/Algebra I/false//If this is true, say the answer, if it is false say false: 2+1x3 = (2+1)x3
+/Roman Numerals/CLXXIV//Divide the Roman numeral DXXII by III. In Roman numerals, what would be your answer.
+/Algebra I/4//Solve for X: 5x+4=24
+/Roman Numerals/LXXXVIII//Multiply XLIV by II. What is your answer in Roman numerals?
+/Roman Numerals/MMCDXLIV//Add MCMXLIV and D. What is your answer in Roman numerals?
+/Roman Numerals/II//A real easy one. Subtract II from IV in Roman numerals.
+/Roman Numerals/VII//If the numerator is XXI and your denominator is III, what's the answer in Roman numerals?
+/Terminology/10,000,000/10000000/10 Million//What is the meaning of 'crore'?
+/Geometry/20//How many sides does a 'icosohedron' have?
+/Terminology/100,000/100000//'Lakh' is a term meaning what?
+/Geometry/Abscissa//What is the name of the 'x' coordinate in geometry?
+/Terminology/10,000/10000//What was the original meaning of the word 'Myriad'?
+/Geometry/5//In assuming (X,Y,Z) what does Y = in (52,5,2)
+/Algebra II/[5 5 5 5]//Matrices are fun!! I mean everyone liked the Matrix soo...add Matrix a [1 2 3 4] to Matrix b [4 3 2 1] and say the answer.
+/Algebra II/Augmented Matrix//Assuming these three matrices are three rows of one matrix, ordered from top to bottom, what type of matrix is this an example of: [1 0 0 3] [0 1 0 4] [0 0 1 2] ?
+/Geometry/Triangle//.5 x Base x Height is the formula to find the area of what geometric figure?
+/Algebra/Natural//A set of all X such that {X=1,2,3,4...} is the definition for what classification of numbers?
+/Algebra/Whole//A set of all X such that {X=0,1,2,3,4...} is the definition for what classification of numbers?
+/Algebra/Integers// A set of all X such that {X=...-3,-2,-1,0,1,2,3...} is the definition for what classification of numbers?

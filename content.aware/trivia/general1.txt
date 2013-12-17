@@ -1,0 +1,158 @@
+/Geography/Australia//Which country is also a continent?
+/History/False. French was the official language for over 600 years./False//True or false:  French was never the official language of England.
+/UnitedStates/Hawaii//Which is the only state that grows coffee?
+/Science&Nature/False, over 80% have suffered brain damage/false//True or False:  10 percent of professional boxers have suffered brain damage.
+/Geography/St. Petersburg, Russia/St. Petersburg/St. Petersberg//Which well-known Russian city has seen it's name changed 3 times since it was founded in 1703 by Peter the Great?
+/Arts&Entertainment/Dopey//Of the 7 dwarfs in 'Snow White and The Seven Dwarfs', which one is the only beardless one?
+/Language/True//True or false:  The word 'karate' means 'empty hand'.
+/Geography/Japan//Which country is the world's leading importer of iron ore?
+/History/1948//What year was the Republic of Israel established, 1933, 1948, 1957 or 1966?
+/Geography/over 300/over three hundred/300//How many cities in the world boast populations in excess of 1 million people; over 50, over 200, over 300 or over 400?
+/Mythology/Nike//Who was the Greek goddess of victory?
+/UnitedStates/St. Augustine, Florida/St. Augustine/Saint Augustine/St Augustine//What city is the oldest one in the United States?
+/Science&Nature/Antarctica//What continent is the only one on Earth that has no reptiles or snakes?
+/Science&Nature/German Shepherds/german sheperd/german shepard/german shepherd//What breed of dog bites more humans than any other breed?
+/Science&Nature/False//True or false:  Adolescent male crickets can chirp.
+/Science&Nature/blue//The blood of mammals is red.  What color is a lobster's blood?
+/Arts&Entertainment/Homer Simpson/Homer//What cartoon character says "DOH"?
+/Arts&Entertainment/False//True or false:  In the movie, 'The Wizard Of Oz', Dorothy's 3 companions were looking for a heart, a brain and a glass slipper.
+/Languages/the Mandarin dialect of Chinese/Chinese/Mandarin//What is the world's most widely spoken language?
+/Geography/Mexico City//Which large, well-known Central American city is sinking at the rate of 6 to 8 inches per year?
+/Science&Nature/write their own name/write name/write their name0//If offered a new pen to write with, what will 97% of people do with it?
+/Science&Nature/5,000 to 6,000/five thousand to six thousand/ 5 to 6 thousand//The average person has a vocabulary of 1,000 to 2,000, 3,000 to 4,000, or 5,000 to 6,000 words?
+/Geography/Arctic Ocean/Arctic//Which one of Earth's oceans is mostly covered by solid ice, ice floes and icebergs?
+/Science&Nature/300 feet/300/three hundred//About how many feet of earth could an ambitious mole tunnel through in one day; 20 feet, 100 feet, 200 feet or 300 feet?
+/Science&Nature/yellow//The blood of mammals is red.  What color is insect's blood?
+/Science&Nature/studies caves/caves/cave//What does a speleologist study?
+/UnitedStates/pet food/pet//Which product is more money spent on per year, baby food or pet food?
+/Geography/Greenland, at 840,000 square miles/greenland//Can you name the largest island in the world?
+/Geography/True//True or false:  In Paraguay dueling is still legal as long as both parties are registered blood donors.
+/Geography/Rome, Italy in 133 B.C./Rome//What city in the world was the first one to reach the population of 1 million people?
+/Geography/True//True or false:  Michigan's Great Lakes are the largest group of freshwater lakes in the world.
+/History/President Grover Cleveland/Cleveland//To date, who has been the only American president to win non-consecutive terms to the White House?
+/UnitedStates/Juneau, Alaska/Juneau//In area, which city is larger, Los Angeles, California or Juneau, Alaska?
+/Science&Nature/10 percent/ten percent/10%/10//How much of the world's population is left-handed, 5 percent, 10 percent, 15 percent or 20 percent?
+/Science&Nature/15 times/15//How many times a day does an average adult person laugh, 10 times, 15 times, 20 times or 25 times?
+/Science&Nature/mosquitos/mosquito//What insect is known for being a carrier of malaria, encephalitis, yellow fever and dengue fever?
+/Science&Nature/your feet/feet/foot//Which part of your body accounts for one quarter of the bones your body contains?
+/Science&Nature/six fingers or six toes/6 fingers/6 toes/six fingers/six toes//What does a person with hexidectylism have?
+/Geography/Canada//What country's name is a Native American Indian word meaning 'Big Village'?
+/Geography/Niagara Falls/Niagara//Over which waterfall does the most water flow over per year?
+/Geography/Greenland//Which large island is 3 times the size of Texas?
+/Geography/Devon//Which county in Great Britain is the only one that has 2 coasts?
+/Geography/Artic Ocean/Artic//Which ocean is the smallest and shallowest?
+/Geography/Atlantic Ocean/Atlantic//Which ocean is saltier, the Pacific or the Atlantic?
+/Geography/Petrograd//What name was the city of St. Petersburg, Russia given in 1914 because Russian leaders thought it's name sounded too German?
+/Geography/Petrograd//What name was the city of St. Petersburg, Russia given in 1924 to honor the founder of the Soviet Union?
+/Geography/Philippines/Phillipine/Phillipines/Philippine//What country's national flag is flown differently depending on if the country is at war or at peace?
+/Geography/The Himilayas/himilayas/himilayan/himilayan mountains//What is the highest mountain range in the world?
+/Geography/The Black Sea/black sea//What body of water does the river Danube empty into?
+/Geography/seven/7//Rome was originally built on how many hills?
+/Geography/The Hawaiian Islands/Hawaii/Hawaiian//What group of islands boasts the 'wettest spot on Earth' because of the rainfall there?
+/Geography/Vatican City/the Vatican/Vatican//Name the world's smallest independant state.
+/History/The Pantheon/pantheon//What is the name of the largest building from ancient Rome that survives intact?
+/Literature/his dog, Argus/his dog/dog//Who or what was the only one to recognize Odysseus when he arrived home after an absence of 20 years?
+/Literature/Homer//What famous ancient Greek author wrote about the epic journey of Odysseus?
+/UnitedStates/Alaska//Which US state has 8 national park sites?
+/UnitedStates/Disney World in Orlando, Florida/Disney World//Which is larger, the island of Manhattan in New York or Disney World in Orlando, Florida?
+/UnitedStates/Maine//Which state is the only one whose name has only one syllable?
+/UnitedStates/Lake Michigan//Which of Michigan's 'Great Lakes' lies entirely inside the United States?
+/UnitedStates/The Great Lakes/Great Lakes//What is the most important inland waterway in North America?
+/Science&Nature/white with black stripes/white with black/black on white//A zebra is which:  black with white stripes or white with black stripes?
+/Science&Nature/the blue whale can whistle at 188 decibels/blue whale//What animal produces the loudest sound of any animal on Earth?
+/Science&Nature/Cats, with over 100/cats//Which animal, cat or dog, has the most vocal sounds?
+/Science&Nature/Dragonflies/dragonfly//What gossamer-winged insect is the fastest flying of all the insects?
+/Science&Nature/12/twelve//How many worker bees would have to spend their lifetime to produce 1 teaspoon of honey?
+/Science&Nature/blonds//Which do mosquitos prefer, brunettes or blonds?
+/Science&Nature/children//Which do mosquitos prefer, children or adults?
+/Science&Nature/their feet/feet//What part of the mosquito does citronella bother the most?
+/Science&Nature/omnivorous//Herbivorous means only plants are eaten for food.  What word means anything is eaten for food?
+/Science&Nature/adult male ostrich/ostrich//What is the world's largest living bird?
+/Sports&Leisure*G*/Police officers/police/policemen//What profession is troubled by the most workplace violence?
+/Music/Thing 1 and Thing 2/thing1 and thing2/thing1 thing2//How did Kurt Cobain announce The Meat Puppets on Nirvana's "Unplugged in New York?
+/Music/The Meat Puppets//Who were the guest artists in Nirvana's "Unplugged in New York?
+/People&Places/Jesus Christ, Richard Nixon and Elvis Presley/Jesus/Nixon/Elvis//What are the 3 best-known western personages in China?
+/History/Bock's Car//What was the name of the B-29 bomber that dropped the Atom Bomb on Nagasaki?
+/Science&Nature/frowning/frown//Which takes more muscles to do, frowning or smiling?
+/Science&Nature/small intestine//What is the body's largest internal organ?
+/Language/entomology is the study of insects/insects/insect//What do you study if you are studying entomology?
+/Language/word origins/where words come from/words//If you study etymology, what are you studying?
+/Geography/Michigan, Huron, Erie or Superior/Michigan/Huron/Erie/Superior//Name one of the "Great Lakes" that surround Michigan.
+/Geography/North Sea//Which sea lies along the western side of Holland (the Netherlands)?
+/Geography/Portugal//What country lies along the western side of Spain?
+/Literature/the giant in "Jack In The Beanstalk"/the giant/giant//Who said: "Fie Fi Fo Fum, I smell the blood of an Englishman"?
+/Weights&Measures/1 Kg/one kilogram/1KG/one Kg//In kilograms, how much does one litre of water weigh?
+/Arts&Entertainment/Alice's Adventures in Wonderland/Alice in wonderland//What Lewis Carroll work offers this bit of whimsy: "All mimsy were the borogoves, and the mome raths outgrabe"?
+/Sports&Leisure/Nine/9//How many of every 10 baseball players who sign pro contracts never play in a major league game?
+/Science&Nature/The lion//Which of the big, jungle cats is the only cat to be social rather than solitary?
+/Science&Nature/Deoxyribonucleic acid or DNA/DNA//What type of nucleic acid carries hereditary information from generation to generation?
+/Science&Nature/Tobacco//What substance is the largest single preventable cause of death?
+/Science&Nature/Beetlejuice/Betelguese//What movie had Michael Keaton playing a character loosely named after a huge star in the constellation of Orion?
+/History/Hieroglyphics/hirogliphics//What form of ancient writing was finally deciphered with the help of a chunk of basalt known as the Rosetta Stone?
+/History/Poland//What country did Hitler's troops invade, kicking off World War II?
+/Science&Nature/Disposable diapers/diapers//What do American parents of infants dump 17 billion of each year?
+/People&Places/Idaho's/idaho//What state's license plates began saying 'Famous Potatoes' in 1957?
+/Science&Nature/A clone//What's an organism made from the genetic material of another commonly called?
+/People&Places/Hawaii//What tropical U.S. state has chosen the yellow hibiscus as it's state flower?
+/People&Places/Romania//What European country contains Transylvania, commonly considered to be the home of "Count Dracula"?
+/Science&Nature/Zero/0//How many bones does a shark have?
+/Science&Nature/An egg//What does the male Emperor Penguine balance atop his feet for two months while its mate feeds?
+/Science&Nature/Radar//What tracking device was the Stealth bomber designed to evade?
+/Science&Nature/Uranium//What's the heaviest naturally-occurring element?
+/Science&Nature/Earth//Which of the 9 planets in our solar system is blue and white when seen from outer space?
+/Literature/Henry Wadsworth Longfellow/longfellow//What poet immortalized a famous silversmith's midnight ride to warn that the British were coming?
+/People&Places/Charles Lindbergh/lindbergh//Who was the first pilot to take off solo in New York and land in Paris?
+/Science&Nature/60 million/Sixty million/60,000,000//How many buffalo/bison roamed North America in 1492 - 600,000, 6 million or 60 million?
+/History/James Garfield/William McKinley/garfield/McKinley//Name 1 of the 2 U.S. presidents that were assassinated while in office other than Lincoln or Kennedy?
+/People&Places/Arizona//What U.S. state adopted a cactus blossom as its state flower?
+/World/Bill Clinton/Clinton//Which president watched the most movies in his first year at the White House?
+/People&Places/New York//What city rings in the new year with a descending ball or apple?
+/Science&Nature/Sextant//What's the term for a device that uses the sun and horizon to determine location?
+/Sports&Leisure/Rook/castle//What chess piece is second in strength only to the queen?
+/People&Places/Fort McHenry's/mchenry//What fort's 1814 bombardment inspired Francis Scott Key to pen the USA's anthem's lyrics?
+/Science&Nature/An egret/egret//What bird in the heron family is named for the long feathers, or "aigrettes," grown by the male during mating season?
+/Science&Nature/Seven/7//What number is indicated by this symbol in the Greek numeral system? VII
+/History/John Hancock's/hancock//Whose signature on the USA's "Declaration Of Independance" is legible from the farthest distance?
+/History/Remember Pearl Harbor!//What was the first U.S. battle cry of World War II?
+/People&Places/Canada//What's the first foreign country you'd reach by traveling due south from Detroit's City Airport?
+/People&Places/The Netherlands/Holland//What country found wooden shoes to be no match for German jackboots in 1940?
+/Arts&Entertainment/The name is Bond, James Bond/the name is bond james bond//What six words does 007 say when introducing himself?
+/Science&Nature/What you see is what you get//What does the acronym "WYSIWYG" stand for?
+/Science&Nature/Genetic engineering/genetic//What type of engineering sees organisms have their DNA altered to produce new substances?
+/Science&Nature/The Pentium/pentium//What Intel chip is the successor to the 80286, 80386 and 80486?
+/Science&Nature/Mars//What planet did the U.S. "Viking I" send surface images of, starting in 1976?
+/People&Places/South America//What continent boasts Angel Falls, the tallest in the world?
+/Science&Nature/The bat/bat//What is the only mammal that can fly, and not simply glide?
+/History/Enola Gay//What was the name of the B-29 that dropped the bomb on Hiroshima?
+/People&Places/The Brandenburg Gate/brandenberg/brandenburg//What's the name of the stately stone gate in the center of Berlin?
+/Science&Nature/The telephone/telephone//What invention did the most to discourage the practice of letter writing?
+/Science&Nature/Canada//What country was proud to see Marc Garneau as it's first astronaut 1984?
+/Science&Nature/The tobacco industry//What industry, according to Melvin Belli, "has conspired to catch you, hold you and kill you"?
+/People&Places/The Conservative (Tory) Party/conservative/tory//What British political party made Margaret Thatcher its first female leader?
+/Science&Nature/a rat/rat//Which can last longer without water, a camel or a rat?
+/Science&Nature/it's eye/eye//Which is bigger, an ostrich's eye or it's brain?
+/Science&Nature/3/three//How many eyelids does a camel's eye have?
+/Science&Nature/true//True or false:  Snakes are immune to their own poison.
+/Science&Nature/mosquito/mousquito//Which insect is responsible for the most human deaths world-wide?
+/Science&Nature/true//True or false:  The bones of a pidgeon weigh less than it's feathers.
+/Science&Nature/the hummingbird//What bird is the only bird in the world that can fly backwards?
+/Science&Nature/the Kiwi/kiwi//Name the national bird of New Zealand?
+/Science&Nature/the mouse/mouse//What is the most common mammal in the United States?
+/Science&Nature/2,200/1,200/500/10//The poison-arrow frog has enough poison to kill how many people; 10, 500, 1,200 or 2,200?
+/Science&Nature/the female black widow spider's/black widow's/black widow//Whose venom is more potent, a rattlesnake's or a female black widow spider's?
+/Science&Nature/the blue whale/blue whale//What is the world's largest mammal?
+/Science&Nature/Antartica//Of the approximately 2,600 different species of frogs, what is the only continent that they don't live on?
+/People&Places/Stonehenge//What well-known ancient site in England is 1,500 years older then the Colosseum in Rome?
+/People&Places/984 feet high/nine hundred eighty-four/984//How tall is the Eiffel Tower; 583 feet, 196 feet, 984 feet or 721 feet?
+/History/Marc Antony//Who did Cleopatra wed after frustrating marriages with her two younger brothers?
+/Arts&Entertainment/Are you sleeping?/are you sleeping//What does "dormez-vous" mean?
+/People&Places/Mohammed A. Salameh//What name did Mohammed A. Salameh use when he rented the van that carried the bomb that blew up the World Trade Center in New York City?
+/Arts&Entertainment/Doggystyle/doggy style//What name did gangsta' rapper, Snoop Dogg, give his platinum debut album?
+/Arts&Entertainment/Do the Right Thing//What Spike Lee movie title was uttered in Congress 67 times in the six months after its release?
+/People&Places/The Empire State Building//What building did a wayward B-25 smack the 78th floor of in 1945?
+/Science&Nature/Twenty-eight miles per hour/28/28 miles per hour/28 mph//What's the fastest man can run - 18, 28 or 38 miles per hour?
+/History/The Persian Gulf War/desert storm/gulf war//What war cost an average of one billion dollars a day?
+/Science&Nature/The telegraph/telegrams//What invention rendered the short-lived Pony Express delivery service unnecessary?
+/Sports&Leisure/Jacques Cousteau/costeau//Who, with Emil Gagnan, invented the gear that allows scuba diving to flourish as a sport?
+/Arts&Entertainment/The Pet Rock/pet rock/rock//What "pet" came with an owner's manual that said it could learn to "play dead" with no training?
+/History/True//True or false:  The Jordanian city, Amman, was once called Philadelphia.

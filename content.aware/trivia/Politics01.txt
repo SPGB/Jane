@@ -1,0 +1,35 @@
+/Politics/Parliamentary Monarchy//We all know that the United Kingdom has a Queen. However, what is the true definition of their governmental system?
+/Politics/Federal Republic//The United States formed a government like none other in history. What is the proper term to describe our system of government?
+/Politics/None//We all know of the troubles the U.S. had in Somalia in the early 1990s. What type of government has been established in that war-torn African nation?
+/Politics/India//What nation gained their independence from Great Britain in 1947 and now functions as a federal republic?
+/Politics/Turkey//What nation occupies the northern half of the island nation of Cyprus?
+/Politics/Colonel//Libya's government is headed by Muammar Qadaffi. What rank does he hold in the Libyan military?
+/Politics/True/yes//Is the Vatican a country?
+/Politics/Jerusalem//The government of Israel is based where?
+/Politics/Tel Aviv//According to most world governments (including the U.S), the government of Israel is based where?
+/Politics/Calcutta//During the British Raj in India, what city originally served as its capital?
+/Politics/Peru//Fujimori is president of what country?
+/Politics/Putin//Who is president of Russia?
+/Politics/Barak/Ehud Barak//Who is the Prime Minister of Israel?
+/Politics/Marinus van der Lubbe/Lubbe/Marinus//Who burned down the German parliamentary building, the Reichstag, on 27 Februari 1933?
+/Politics/Knesset//What is the parliament of Israel called?
+/Politics/House of Councillors//The Japanese parliament, the Diet, is composed of a House of Representatives and a ...
+/Politics/Denmark/Holland//Which country has the Folketing as parliament?
+/Politics/Duma//What is the general assembly of Russia known as.
+/Politics/Assemblee Nationale//The French parliament consists of two chambers, the Senat and the ...
+/Politics/Cape Town//In which city is the South African parliament?
+/Politics/20//At what age are Japanese citizens eligible to vote?
+/Politics/National People's Congress/National Peoples Congress//What is the Chinese parliament called?
+/Politics/Strasbourg//Where does the European Parliament have its seat?
+/Politics/The Hague//In which city is the Dutch parliament?
+/Politics/1954//In which year was the landmark Brown vs Topeka (Board of Education) case, which argued that racially separate facilities in education were inherently unequal, passed by the Supreme Court?
+/Politics/Congress//Which institution makes up the legislative branch of the government of the United States?
+/Politics/Abortion//What did the 1973 Roe vs Wade Supreme Court case deal with (and this is why everyone is confused about pro-life/pro-choice people)?
+/Politics/Reagan/Ronald Reagan//Which US President started his career as a film actor?
+/Politics/Cheney/Dick Cheney//Who is the Vice President of the United States of America.
+/Politics/Blair/Tony Blair//Who is the Prime Minister of Great Britain.
+/Politics/Bill of Rights//How are the first ten Amendments to the U.S Constitution commonly known?
+/Politics/Underground Railroad//The network that helped slaves in the South escape to freedom in the North was known as the_______ _________.
+/Politics/Al Gore//According to Popular Vote, who is the President of the United States of American (hmmm...can we say: phal is liberal?)
+/Politics/Hayes/Rutherford B. Hayes//In the 1876 Presidential election, Samuel J. Tilden won the popular vote, but initially there was a tie in the electoral votes for the two leading candidates in the Electoral College vote. This tie was decided by a commission established by Congress. Who finally became President?
+/Politics/Israel//In 1998, what country turned 50?
